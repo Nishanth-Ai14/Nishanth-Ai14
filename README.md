@@ -28,14 +28,17 @@
 `Git` • `VS Code` • `Docker` • `Google Cloud` • `Postman`
 
 ---
-
 ### 🚀 Featured Projects
+
 | Project | Tech Stack | Description |
 |----------|-------------|--------------|
-| 🧠 **EpiWarn – AI Epidemic Predictor** | Python, TensorFlow, Pandas | Predicts and visualizes outbreak patterns using WHO data. |
-| 🎓 **V Project – Personal Growth Platform** | React, Tailwind, Node/Django, MongoDB | AI-powered learning, fitness, finance & career assistant. |
-| 🎬 **Movie Rental System** | Flask, SQL, JS | Full-stack movie rental web app with login & tracking. |
-| 🚗 **Car Rental System** | HTML, CSS, JS | DBMS project with user authentication and booking system. |
+| 🧠 [**EpiWarn – AI Epidemic Predictor**](https://github.com/Nishanth-Ai14/EpiWarn-AI-Epidemic-Predictor) | Python, TensorFlow, Pandas | Predicts and visualizes epidemic outbreaks using WHO data. |
+| 🎓 [**V Project – Personal Growth Platform**](https://github.com/Nishanth-Ai14/V-Project-AI-Assistant) | React, Tailwind, Node/Django, MongoDB | AI-powered app integrating learning, fitness, finance & career tools. |
+| 🗺️ [**Crime Data Visualization Map**](https://github.com/Nishanth-Ai14/Crime-Data-Visualization-Map) | Flask, Leaflet.js, JavaScript, CrimeoMeter API | Real-time crime visualization app featuring interactive maps, statistics, and analytics dashboards. |
+| 🎬 [**Movie Rental System**](https://github.com/Nishanth-Ai14/Movie-Rental-System) | Flask, SQL, HTML, JS | Full-stack movie rental platform with user authentication and tracking. |
+| 🚗 [**Car Rental System**](https://github.com/Nishanth-Ai14/Car-Rental-System) | HTML, CSS, JS | DBMS-based car booking system with admin and user panels. |
+| 💬 [**AI Chatbot**](https://github.com/Nishanth-Ai14/AI-Chatbot) | Python, Flask, NLP | AI-driven chatbot for natural language conversation. |
+| 🧾 [**AI Resume Analyzer**](https://github.com/Nishanth-Ai14/AI-Resume-Analyzer) | React, Tailwind, OpenAI API | AI tool that evaluates and improves resumes using LLMs. |
 
 ---
 
